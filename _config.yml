@@ -61,7 +61,7 @@ kramdown:
 # layout: default
 
 # Disqus settings
-disqus_username: hux
+disqus_username: szcblog
 
 # Netease settings
 netease_comment: false
